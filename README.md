@@ -1,5 +1,5 @@
 # Pelatihan Git LAOS 2024
-### Preview Website : [repo.masfana.my.id](https://git.masfana.my.id/)
+### Preview Website : [git.masfana.my.id](https://git.masfana.my.id/)
 Halo semua! Selamat datang di pelatihan Git LAOS 2024. Di sini, kalian akan belajar menggunakan Git dengan cara yang menyenangkan. Berikut adalah langkah-langkah yang perlu kalian ikuti:
 
 ## Langkah-langkah
